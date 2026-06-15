@@ -31,7 +31,7 @@ University of New Mexico in 2000. He has a broad skillset. He is a spatial analy
 [Field Data Collection with QGIS and Mergin Maps](https://locatepress.com/book/mergin-maps) all with [Locate Press](https://locatepress.com/). He was elected as an OsGeo Charter Member 
 in 2015. He is also a fellow of the [Rewilding Institute](https://rewilding.org/) and a board member of [Wild Arizona](https://www.wildarizona.org/).
 
-**Martin Dobias** - Saber is a one of the [Lutra Consulting](https://www.lutraconsulting.co.uk/) co-founders. Lutra is an active member of QGIS development community.
+**Martin Dobias** - Martin is a one of the [Lutra Consulting](https://www.lutraconsulting.co.uk/) co-founders. Lutra is an active member of QGIS development community.
 
 ### Introduction - What is a point cloud?
 Point cloud datasets consist of a collection of points in 3D space (up to billions, even trillions), collected using laser scanning (LiDAR) or photogrammetry. LIDAR is an acronym for 
