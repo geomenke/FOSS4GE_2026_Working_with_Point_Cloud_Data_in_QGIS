@@ -1,4 +1,4 @@
-#FOSS4GE 2026 - Working with Point Cloud Data in QGIS
+# FOSS4GE 2026 - Working with Point Cloud Data in QGIS
 Home page for the workshop
 
 ### Description
